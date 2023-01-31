@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/travel-app/static/css/main.97bb7436.css",
+    "main.js": "/travel-app/static/js/main.0ccb1f10.js",
+    "static/media/pexels.jpg": "/travel-app/static/media/pexels.c9f58bcda77479ed8151.jpg",
+    "static/media/photo5.jpg": "/travel-app/static/media/photo5.edb8983e30fef872296a.jpg",
+    "static/media/photo4.png": "/travel-app/static/media/photo4.0a37b8ad83d8687d4e76.png",
+    "static/media/rooms2.png": "/travel-app/static/media/rooms2.01e02160b1cc251d76c8.png",
+    "static/media/photo2.png": "/travel-app/static/media/photo2.39efa6978a2283c9c725.png",
+    "static/media/photo1.png": "/travel-app/static/media/photo1.d9062743929522772746.png",
+    "static/media/photo3.png": "/travel-app/static/media/photo3.f92fe46725e38858777f.png",
+    "static/media/rooms1.png": "/travel-app/static/media/rooms1.7fb9e6feacd9eabc2876.png",
+    "static/media/rooms3.png": "/travel-app/static/media/rooms3.61e86feb5be9999d243d.png",
+    "index.html": "/travel-app/index.html",
+    "main.97bb7436.css.map": "/travel-app/static/css/main.97bb7436.css.map",
+    "main.0ccb1f10.js.map": "/travel-app/static/js/main.0ccb1f10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97bb7436.css",
+    "static/js/main.0ccb1f10.js"
+  ]
+}
