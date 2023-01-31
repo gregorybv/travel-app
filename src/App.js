@@ -4,6 +4,7 @@ import Offers from "./components/Offers";
 import Plan from "./components/Plan";
 import Rooms from "./components/Rooms";
 import ImageSlider from "./components/ImageSlider";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Plan/>
       <Rooms/>
       <ImageSlider/>
+      <Footer/>
     </div>
   );
 }
